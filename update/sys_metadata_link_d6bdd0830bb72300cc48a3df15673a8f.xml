@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>5537504f0b772300cc48a3df15673a00</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_google_credentials">
+    <sn_google_credentials action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_to>all</applies_to>
+        <authentication_key/>
+        <authentication_protocol/>
+        <classification>sn_google</classification>
+        <email>cmpqa.svc@itomcmp.servicenow.com</email>
+        <mid_list/>
+        <name>Google Credentials</name>
+        <order>100</order>
+        <password/>
+        <privacy_key/>
+        <privacy_protocol/>
+        <secret_key>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</secret_key>
+        <ssh_passphrase/>
+        <ssh_private_key/>
+        <sys_class_name>sn_google_credentials</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-27 13:56:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5537504f0b772300cc48a3df15673a00</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-27 13:56:35</sys_updated_on>
+        <tag/>
+        <type>sn_google</type>
+        <user_name/>
+    </sn_google_credentials>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-27 14:23:15</sys_created_on>
+        <sys_id>d6bdd0830bb72300cc48a3df15673a8f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Google Credentials</sys_name>
+        <sys_package display_value="GCP Automation Data" source="x_snc_gcp_automati">5c3c9861db672300d9d0fa3baf96198e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GCP Automation Data">5c3c9861db672300d9d0fa3baf96198e</sys_scope>
+        <sys_update_name>sys_metadata_link_d6bdd0830bb72300cc48a3df15673a8f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-27 14:23:15</sys_updated_on>
+        <tablename>discovery_credentials</tablename>
+    </sys_metadata_link>
+</record_update>
