@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>a228117a0bc03300cc48a3df15673a8a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_cloud_service_account">
+    <cmdb_ci_cloud_service_account action="INSERT_OR_UPDATE">
+        <account_id>itomcmp</account_id>
+        <asset/>
+        <asset_tag/>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attributes/>
+        <can_print>false</can_print>
+        <category/>
+        <change_control/>
+        <checked_in/>
+        <checked_out/>
+        <comments/>
+        <company/>
+        <correlation_id/>
+        <cost/>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <datacenter_discovery_status>2019-03-11 15:47:01: Completed....Reload this form to see an updated datacenter list.</datacenter_discovery_status>
+        <datacenter_type>cmdb_ci_google_datacenter</datacenter_type>
+        <datacenter_url/>
+        <delivery_date/>
+        <department/>
+        <discovery_credentials display_value="Google Credentials">931719f60bc03300cc48a3df15673a0b</discovery_credentials>
+        <discovery_source/>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <fault_count>0</fault_count>
+        <first_discovered/>
+        <fqdn/>
+        <gl_account/>
+        <install_date/>
+        <install_status>1</install_status>
+        <invoice_number/>
+        <ip_address/>
+        <is_master_account>false</is_master_account>
+        <justification/>
+        <last_discovered/>
+        <lease_id/>
+        <location/>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <manufacturer/>
+        <model_id/>
+        <model_number/>
+        <monitor>false</monitor>
+        <name>Google SA</name>
+        <object_id>itomcmp</object_id>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <owned_by/>
+        <parent_account/>
+        <po_number/>
+        <purchase_date/>
+        <schedule/>
+        <serial_number/>
+        <server/>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory/>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_cloud_service_account</sys_class_name>
+        <sys_class_path>/!!/!)/#7</sys_class_path>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-11 10:16:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a228117a0bc03300cc48a3df15673a8a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-11 10:17:01</sys_updated_on>
+        <unverified>false</unverified>
+        <vendor/>
+        <warranty_expiration/>
+    </cmdb_ci_cloud_service_account>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-11 10:23:21</sys_created_on>
+        <sys_id>d9e955be0bc03300cc48a3df15673add</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Google SA</sys_name>
+        <sys_package display_value="GCP Automation Data" source="x_snc_gcp_automati">5c3c9861db672300d9d0fa3baf96198e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GCP Automation Data">5c3c9861db672300d9d0fa3baf96198e</sys_scope>
+        <sys_update_name>sys_metadata_link_d9e955be0bc03300cc48a3df15673add</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-11 10:23:21</sys_updated_on>
+        <tablename>cmdb_ci_cloud_service_account</tablename>
+    </sys_metadata_link>
+</record_update>
