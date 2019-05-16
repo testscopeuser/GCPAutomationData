@@ -1,0 +1,14 @@
+imports:
+- path: https://raw.githubusercontent.com/suvenkat79/google/master/vm_with_disks.py
+resources:
+- name: vm-with-disks
+  type: https://raw.githubusercontent.com/suvenkat79/google/master/vm_with_disks.py
+  properties:
+    zone: us-west1-a
+    disks:
+     - sizeGb: 200
+       diskType: pd-standard
+       name: backupdisk
+     - sizeGb: 100
+       diskType: pd-ssd
+       name: cachedisk
